@@ -1,0 +1,25 @@
+/** esto es una hoja de estilos externa **/
+
+
+body {
+    /** background-color:rgb(216, 96, 114); **/
+    background-color: #7964C9;
+    background-image:url("img/ondam.png");
+    background-size: cover;
+ }
+
+ html {
+   
+   
+}
+
+ #contenido {
+    width: 500px; 
+    margin: 100px auto;
+    text-align: center;
+
+ }
+
+ .boton {
+   margin: 25px 0;
+ }
